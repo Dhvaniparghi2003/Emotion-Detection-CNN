@@ -1,1 +1,1 @@
-This project focuses on developing an Emotion Detection system using Convolutional Neural Networks (CNN). The objective is to accurately identify human emotions from facial expressions in images. By leveraging deep learning techniques,
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
