@@ -1,2 +1,1 @@
-# Emotion-Detection-CNN
-# Emotion Detection CNN  This project uses a Convolutional Neural Network (CNN) to detect emotions from facial expressions.
+This project focuses on developing an Emotion Detection system using Convolutional Neural Networks (CNN). The objective is to accurately identify human emotions from facial expressions in images. By leveraging deep learning techniques,
