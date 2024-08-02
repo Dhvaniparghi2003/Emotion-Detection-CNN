@@ -14,7 +14,6 @@ Deployment of the trained model for real-time emotion detection.
 Usage:
 
 Clone the repository to your local machine.
-Install the required dependencies listed in requirements.txt.
 Run the training script to train the CNN model on your dataset.
 Evaluate the trained model using the provided evaluation script.
 Deploy the trained model for real-time emotion detection in your applications.
